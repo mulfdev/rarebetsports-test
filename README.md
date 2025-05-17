@@ -9,7 +9,6 @@ This project is a NestJS-based API for tracking sleep patterns. It allows users 
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
-- [Project Setup](#project-setup)
 - [Environment Configuration](#environment-configuration)
 - [Running the Application](#running-the-application)
 - [Using the Shell Scripts](#using-the-shell-scripts)
