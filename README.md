@@ -20,7 +20,6 @@ This project is a NestJS-based API for tracking sleep patterns. It allows users 
   - [Authentication Endpoints](#authentication-endpoints)
   - [Sleep Endpoints](#sleep-endpoints)
 - [Running Tests](#running-tests)
-- [License](#license)
 
 ## Prerequisites
 
